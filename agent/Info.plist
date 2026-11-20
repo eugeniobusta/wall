@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleIdentifier</key><string>com.eugeniobusta.wall-agent</string>
+  <key>CFBundleName</key><string>Wall Agent</string>
+  <key>CFBundleExecutable</key><string>WallAgent</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleShortVersionString</key><string>1.0</string>
+  <key>CFBundleVersion</key><string>1</string>
+  <key>LSMinimumSystemVersion</key><string>13.0</string>
+  <key>LSUIElement</key><true/>
+  <key>NSCalendarsUsageDescription</key><string>Wall Agent shows your upcoming events on your projected wall.</string>
+  <key>NSCalendarsFullAccessUsageDescription</key><string>Wall Agent shows your upcoming events on your projected wall.</string>
+  <key>NSRemindersUsageDescription</key><string>Wall Agent shows your open reminders on your projected wall.</string>
+  <key>NSRemindersFullAccessUsageDescription</key><string>Wall Agent shows your open reminders on your projected wall.</string>
+</dict>
+</plist>
